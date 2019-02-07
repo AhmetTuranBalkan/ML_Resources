@@ -1,6 +1,6 @@
-Bokeh Cheat Sheet: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Bokeh_Cheat_Sheet.pdf
-Keras Cheat Sheet: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf
-ML Cheat Sheet:: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+Bokeh Cheat Sheet:
+Keras Cheat Sheet: 
+ML Cheat Sheet
 Stanford: Artificial Intelligence: Principles and Techniques
 Stanford-Machine Learning
 Stanford-Natural Language Processing with Deep Learning
